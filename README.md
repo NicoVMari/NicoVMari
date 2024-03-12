@@ -8,6 +8,10 @@
   <a href="https://instagram.com/nicolo_marino_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolo_marino_" height="30" width="40" /></a>
 </p>
 
+<h2>
+  
+</h2>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
