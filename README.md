@@ -1,4 +1,4 @@
-<h1 align="center">Ei, sono Nicolò Vittorio Marino</h1>
+<h1 align="center">Nicolò Vittorio Marino</h1>
 <h3 align="center">Studente d'Informatica all'Università del Piemonte Orientale</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicovmari&label=Profile%20views&color=0e75b6&style=flat" alt="nicovmari" /> </p>
