@@ -1,4 +1,5 @@
-# Hi👋
+<h1> Hi👋 </h1>
+--- 
 My name is Nicolò
 
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/NicoVMari)](https://github.com/NicoVMari)
