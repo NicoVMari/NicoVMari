@@ -1,10 +1,10 @@
-## Hi👋
+# Hi👋
 My name is Nicolò
 
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/NicoVMari)](https://github.com/NicoVMari)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=nicomarino6902@gmail)](nicomarino6902@gmail.com)
 
-Currently a computer science student at Eastern Piedmont University ![image](https://github.com/NicoVMari/NicoVMari/assets/96552280/151c0425-8027-4826-b60b-93f9f351b4f1)
+Currently a computer science student at Eastern Piedmont University <img src="https://github.com/NicoVMari/NicoVMari/assets/96552280/151c0425-8027-4826-b60b-93f9f351b4f1" wight="50px">
 <br>
 
 <br>
