@@ -1,4 +1,4 @@
-<h1> Hi👋 </h1>
+-<h1> Hi👋 </h1>
 --- 
 My name is Nicolò
 
@@ -12,7 +12,6 @@ Currently a computer science student at Eastern Piedmont University <img src="ht
 
 - 📫 How to reach me: 
     - Gmail : <a href="mailto:nicomarino6902@gmail.com">nicomarino6902@gmail.com</a> 
-
 --- 
 **Languages and Tools:**  
 
