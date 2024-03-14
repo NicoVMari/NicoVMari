@@ -31,6 +31,6 @@ Currently a computer science student at Eastern Piedmont University <img src="ht
 
 <summary>📈 My GitHub Stats</summary>
 <br>
-<img src="https://github.com/NicoVMari/NicoVMari/assets/96552280/6227fb12-4cbb-4f72-94ad-de0c0b76ca18" width="150px"></img>
+<img src="https://github.com/NicoVMari/NicoVMari/assets/96552280/6227fb12-4cbb-4f72-94ad-de0c0b76ca18" width="250px"></img>
 
 
