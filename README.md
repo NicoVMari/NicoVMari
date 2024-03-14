@@ -33,3 +33,6 @@ Currently a computer science student at Eastern Piedmont University <img src="ht
 
 <summary>📈 My GitHub Stats</summary>
 <br>
+<!--START_SECTION:stats-->
+![Nicolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoVMari&show_icons=true&theme=radical)
+<!--END_SECTION:stats-->
