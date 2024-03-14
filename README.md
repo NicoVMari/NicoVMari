@@ -33,3 +33,4 @@ Currently a computer science student at Eastern Piedmont University <img src="ht
 <summary>📈 My GitHub Stats</summary>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicovmari)
+
