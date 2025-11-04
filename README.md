@@ -6,10 +6,8 @@ My name is Nicolò
 
 A graduate in Computer Science and currently a student of Artificial Intelligence with an Economics-Business orientation at Eastern Piedmont University <img src="https://github.com/NicoVMari/NicoVMari/assets/96552280/151c0425-8027-4826-b60b-93f9f351b4f1" width="25px">.
 
-Consultant at Alten Italy <img src="https://github.com/user-attachments/assets/e4b49972-57e4-4c8a-b1c1-6f7f931eda53" width="40px">, currently working as a Fullstack Developer for Fastweb <img src="https://github.com/user-attachments/assets/761be6d5-1798-4f8a-946f-b2357a43b144" width="100px">.
+Consultant at Alten Italy <img src="https://github.com/user-attachments/assets/e4b49972-57e4-4c8a-b1c1-6f7f931eda53" width="40px">, currently working as a Fullstack Developer for Fastweb + Vodofane <img src="https://github.com/user-attachments/assets/225466e2-61f0-4af1-8358-2f48d246de6f" width="100px">.
 <br>
-
-
 
 <br>
 
