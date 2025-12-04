@@ -13,19 +13,3 @@ Consultant at Alten Italy <img src="https://github.com/user-attachments/assets/e
 
 - 📫 How to reach me: 
     - Gmail : <a href="mailto:nicomarino6902@gmail.com">nicomarino6902@gmail.com</a> 
-
-## Skills & Technologies
-
-java,js,html,css,git,postgres,mysql,react,spring,bootstrap,arduino,linux,py,bash,c,cpp,idea,latex,octave,ts,vscode
-
-<br>
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 15  
-👥 **Followers:** 7  
-🔄 **Following:** 5  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoVMari&show_icons=true&theme=radical)
-
-
-<!--END_SECTION:stats-->
